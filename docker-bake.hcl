@@ -4,7 +4,7 @@ variable "platforms" {
 }
 
 variable "IMAGE_REPO" {
-  default = "temporaliotest"
+  default = "daniel42233"
 }
 
 variable "IMAGE_TAG" {
